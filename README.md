@@ -69,9 +69,7 @@ Studied network scanning concepts and basic enumeration techniques.
 ---
 
 # 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- LinkedIn: www.linkedin.com/in/amina-sajid-cybersecurity
 
 ---
 
